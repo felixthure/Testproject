@@ -9,7 +9,7 @@ Everyone goes to the tavern and drinks ale. There are dwarves.
 <<<<<<< HEAD
 To be continued.
 =======
-Dwarves are little people. 
+Dwarves are people. 
 
 The End.
 >>>>>>> origin/master
