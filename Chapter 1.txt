@@ -13,3 +13,5 @@ Dwarves are little people.
 
 The End.
 >>>>>>> origin/master
+
+People are people
